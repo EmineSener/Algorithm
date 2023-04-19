@@ -47,6 +47,5 @@ int main()
     scanf("%d",&charmander->health);
     scanf("%d",&charmander->attackPower);
     savas(pikachu,charmander);
-
     return 0;
 }
